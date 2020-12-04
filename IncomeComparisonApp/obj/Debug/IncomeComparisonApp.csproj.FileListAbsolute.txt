@@ -1,0 +1,7 @@
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.exe.config
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.exe
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\bin\Debug\IncomeComparisonApp.pdb
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.csprojAssemblyReference.cache
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.exe
+C:\Users\ccfai\OneDrive\Desktop\Basic_C#_Programs\IncomeComparisonApp\IncomeComparisonApp\obj\Debug\IncomeComparisonApp.pdb
